@@ -135,7 +135,7 @@ tree, the tab strip, and the delivery cards are untouched.
 ## Verify
 
 ```sh
-node --test test/
+npm test
 ```
 
 In the browser console, a failed native open logs `[typora-links] ...` with the
