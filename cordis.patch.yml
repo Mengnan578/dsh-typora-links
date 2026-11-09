@@ -1,0 +1,6 @@
+# dsh-typora-links bundle patch: mount the (empty) host row so the Web client
+# loads this package's browser half. Applied as a bundle layer, before the
+# profile's own cordis.patch.yml.
+- insert:
+    - id: typora-links
+      name: 'dsh-typora-links'

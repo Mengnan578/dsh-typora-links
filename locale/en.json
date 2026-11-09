@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Typora Links",
+    "description": "Clicking a local Markdown link in the conversation opens it in Typora instead of the in-app preview. Cmd/Ctrl-click keeps the preview."
+  }
+}

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" role="img" aria-label="Typora Links">
+  <rect x="1.5" y="1.5" width="21" height="21" rx="5" fill="#1f6feb" />
+  <path d="M6 8.2v7.6h2.1v-4.3l1.7 2.7h1.5l1.7-2.7v4.3H15V8.2h-2.2l-1.8 2.9-1.8-2.9H6Z" fill="#fff" />
+  <path d="M16.4 11.2v3.1h-1.3l2 2.7 2-2.7h-1.3v-3.1h-1.4Z" fill="#fff" opacity="0.85" />
+</svg>

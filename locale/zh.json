@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Typora 链接",
+    "description": "点击对话里的本地 Markdown 链接时用 Typora 打开，而不是在 DSH 内预览；按住 ⌘/Ctrl 点击仍走预览。"
+  }
+}
